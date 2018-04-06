@@ -1,0 +1,6 @@
+[package]
+name = "molecule_parser"
+version = "0.1.0"
+authors = ["aheart <aheart@users.noreply.github.com>"]
+
+[dependencies]
